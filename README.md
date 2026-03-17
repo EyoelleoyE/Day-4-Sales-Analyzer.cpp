@@ -1,2 +1,2 @@
 # Day-4-Sales-Analyzer.cpp
-I have managed to master Arrays. I made a Sales Analyzer software and figured 'KIng of the Hill' to find the maximum value.
+Back at the desk. I mastered Arrays. Built a Sales Analyzer and figured out the 'King of the Hill' logic to find maximum values. Also, I discovered the iomanip library making my code's output look like actual money.
